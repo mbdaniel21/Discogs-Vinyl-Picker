@@ -1,3 +1,6 @@
+# files for this project
+.your_vinyl_files/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
